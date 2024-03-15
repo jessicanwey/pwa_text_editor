@@ -1,7 +1,7 @@
 # PWA Just Another Text Editor
 
   ## Description
-    This is text editor that runs in the browser. The app is a single page application that meets PWA criteria. It features a number of data persistence techniques and is also able to function offline. 
+  This is text editor that runs in the browser. The app is a single page application that meets PWA criteria. It features   a number of data persistence techniques and is also able to function offline. 
   
     
   ## Table of Contents
