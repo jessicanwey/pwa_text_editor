@@ -18,6 +18,7 @@
 
   ## Usage
 
+## Screenshot of ``` manifest.json ``` file.
 <img width="1440" alt="jate_manifest_json" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/b374bb94-fc8f-4932-93b6-b9c43f1c262e">
 
 <img width="1440" alt="jate_service_workers" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/851c9f61-c96e-457e-b513-95a54e52c96f">
