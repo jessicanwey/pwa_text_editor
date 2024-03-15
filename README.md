@@ -18,17 +18,6 @@
 
   ## Usage
 
-### Screenshot of ``` manifest.json ``` file.
-<img width="1440" alt="jate_manifest_json" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/b374bb94-fc8f-4932-93b6-b9c43f1c262e">
-
-
-### Screenshot of registered service worker.
-<img width="1440" alt="jate_service_workers" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/851c9f61-c96e-457e-b513-95a54e52c96f">
-
-
-### Screenshot of IndexedDB storage.
- <img width="1440" alt="jate_indexed_db" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/c5fdc0d7-72bf-42c9-a33b-ff3006904e1a">
- 
 ## User Story
 
 ```md
@@ -66,6 +55,17 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
+
+### Screenshot of ``` manifest.json ``` file.
+<img width="1440" alt="jate_manifest_json" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/b374bb94-fc8f-4932-93b6-b9c43f1c262e">
+
+
+### Screenshot of registered service worker.
+<img width="1440" alt="jate_service_workers" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/851c9f61-c96e-457e-b513-95a54e52c96f">
+
+
+### Screenshot of IndexedDB storage.
+ <img width="1440" alt="jate_indexed_db" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/c5fdc0d7-72bf-42c9-a33b-ff3006904e1a">
 
 
   ## Contributing
