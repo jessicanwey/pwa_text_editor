@@ -30,7 +30,7 @@ export const putDb = async (content) => {
 
   //Get confirmation of the request
   const result = await request;
-  console.log("Data saved to the database", result);
+  console.log("Data saved to the database", result.value);
 };
 
 
@@ -51,8 +51,10 @@ export const getDb = async () => {
 
   //Get confirmation of the request
   const result = await request;
-  console.log("Data read from the database ", result);
-  return result.value;
+  result 
+   ? console.log("Data read from the database ", result.value)
+   : console.log("No data found in database");
+  return result?.value;
 
 }
   
