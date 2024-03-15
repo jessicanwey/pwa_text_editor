@@ -14,7 +14,7 @@
   ## Installation
   Clone the repository from GitHub, run ``` npm i ``` in your terminal. To start the application run ``` npm run start ``` in your terminal.
 
-  Starter code used for the porject can be found [here](https://github.com/coding-boot-camp/cautious-meme)
+  [Starter code used for the project can be found here](https://github.com/coding-boot-camp/cautious-meme)
 
   ## Usage
 
