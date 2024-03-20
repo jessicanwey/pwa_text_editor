@@ -67,6 +67,9 @@ THEN I should have proper build scripts for a webpack application
 ### Screenshot of IndexedDB storage.
  <img width="1440" alt="jate_indexed_db" src="https://github.com/jessicanwey/pwa_text_editor/assets/145372607/c5fdc0d7-72bf-42c9-a33b-ff3006904e1a">
 
+### Link to live website.
+https://pwa-text-editor-qryt.onrender.com
+
 
   ## Contributing
   Please follow this link for best practices for contributing to an open source project:
